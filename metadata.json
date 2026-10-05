@@ -1,0 +1,6 @@
+{
+  "name": "Overclock",
+  "description": "High-precision millisecond stopwatch with server time synchronization and ultra-low touch latency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
